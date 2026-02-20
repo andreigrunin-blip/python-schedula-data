@@ -2,6 +2,7 @@
 
 # Descrizione
 Questo programma permette di visualizzare la data con la stringa '/'.
+
 Progetto realizzato allo scopo didattico per applicare:
 1. libreria datetime
 2. dichiarare la viaribile exam_date
