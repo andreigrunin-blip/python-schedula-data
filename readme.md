@@ -91,7 +91,7 @@ Portabilità
 
 # Autore
 
-**Andrei Grunin**
+** 👨‍💻 Andrei Grunin**
 
 Studente di Informatica
 
