@@ -20,6 +20,7 @@ python data.py
 
 # 🧠 Codice Python
 '''python
+
 import datetime
 
 data = datetime.date(2014,12,11)
