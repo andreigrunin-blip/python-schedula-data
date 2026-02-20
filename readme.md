@@ -89,9 +89,9 @@ Efficienza
 
 Portabilità
 
-# Autore
+# 👨‍💻 Autore
 
-👨‍💻 **Andrei Grunin**
+**Andrei Grunin**
 
 Studente di Informatica
 
