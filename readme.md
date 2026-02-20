@@ -19,7 +19,7 @@ python data.py
 11 / 12 / 2014
 
 # 🧠 Codice Python
-'''python
+```python
 
 import datetime
 
@@ -27,7 +27,7 @@ data = datetime.date(2014,12,11)
 
 print(data.day , "/", data.month, "/", data.year)
 
-'''
+```
 # 🏗 Struttura del progetto
 python-schedula-data/
 
