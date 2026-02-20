@@ -25,9 +25,13 @@ print(data.day , "/", data.month, "/", data.year)
 '''
 # 🏗 Struttura del progetto
 python-schedula-data/
+
 |
+
 |---- data.py
+
 |
+
 |---- readme.md
 
 # 🔄 Ciclo di vita del software
